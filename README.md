@@ -1,5 +1,3 @@
-
-
 ### Using GitBook  (For more:[Setup and Installation of GitBook](https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md))
 
 ##### Install with NPM
