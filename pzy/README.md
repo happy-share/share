@@ -24,4 +24,5 @@ https://github.com/ptspzy?tab=stars
 ### 经典书籍
 
 - 代码大全２（Code Complete）
+- OReilly书籍:http://pan.baidu.com/share/home?uk=2214641459
 - ...
