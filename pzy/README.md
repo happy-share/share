@@ -25,4 +25,5 @@ https://github.com/ptspzy?tab=stars
 
 - 代码大全２（Code Complete）
 - OReilly书籍:http://pan.baidu.com/share/home?uk=2214641459
+- CSS Secrets(All demos:http://play.csssecrets.io/)
 - ...
