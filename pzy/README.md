@@ -23,7 +23,14 @@ https://github.com/ptspzy?tab=stars
 
 - [Pro Git](https://github.com/progit/progit)
 
+
 #### Git
 
 http://www.lupaworld.com/article-215534-1.html
 
+### 经典书籍
+
+- 代码大全２（Code Complete）
+- OReilly书籍:http://pan.baidu.com/share/home?uk=2214641459
+- CSS Secrets(All demos:http://play.csssecrets.io/)
+- ...
