@@ -1,6 +1,6 @@
 # About Me
 
-[xiaoyusieln](xiaoyu.world)
+[xiaoyusieln](http://xiaoyu.world)
 
 # Go
 
