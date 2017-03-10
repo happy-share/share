@@ -13,11 +13,15 @@
 
 - [https://github.com/qiu-deqing/FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [https://github.com/hawx1993/Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)
+- https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese#general-questions
+- https://github.com/windiest/Front-end-tutorial
+- https://github.com/jimuyouyou/node-interview-questions
 
 
 
 # Reference
 - [MDN](https://developer.mozilla.org/en-US/)  （尽量看英文）
+- http://devdocs.io/
 - [https://github.com/jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)
 - [https://github.com/foru17/front-end-collect](https://github.com/foru17/front-end-collect)
 - [https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
